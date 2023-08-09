@@ -39,3 +39,14 @@ You'll probably want a personalized badge, so you'll need an image with your wit
 * height: 128px
 
 [Here's a Canva template you can use](https://www.canva.com/design/DAFrALs4Y9M/jaOvDF6RzTROxnDUyuEWnA/view?utm_content=DAFrALs4Y9M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview), it already has the correct dimensions, just remember to add an image of your own.
+
+### Troubleshooting
+
+If you are getting the `ImportError` for `jpegdec` you'll need to reinstall micropython in the badge.
+
+- Download the most recent MicroPython .uf2 from the Releases page of our badger2040 Github repository. Click on 'assets' to expand the list of files - for the version with examples built in you'll want to download pimoroni-badger2040-vx.x.x-micropython-with-badger-os.uf2 (for Badger 2040) or pimoroni-badger2040w-vx.x.x-micropython-with-badger-os.uf2 (for Badger 2040 W). Make sure you download the correct one for your board!
+- Connect Badger to your computer with a USB cable.
+- Hold down BOOT/USR (on Badger 2040) or the BOOTSEL button (on Badger 2040 W), and then tap the RESET button. This will put it into bootloader mode, and it should appear as a drive on your computer called RPI-RP2.
+- Copy the .uf2 file to the RPI-RP2 drive - once you've done that Badger will reboot.
+
+For [more details refer to this page](https://learn.pimoroni.com/article/getting-started-with-badger-2040#troubleshooting)
