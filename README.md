@@ -16,6 +16,7 @@ Happy coding.
 
 - `badger2040w`: Pick this folder if you received a **Pimoroni Badger 2040 W**. Follow the steps on the README.md inside that folder.
 - `badger2040`: Pick this folder if you received a **Pimoroni Badger 2040**. Follow the steps on the README.md inside that folder.
+- `tufty2040`: Pick this folder if you received a **Pimoroni Tufty 2040**. Follow the steps on the README.md inside that folder.
 
 ## Need help?
 
