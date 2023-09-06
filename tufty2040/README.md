@@ -12,10 +12,10 @@
 
 1. Follow the instructions on [getting started with Tufty 2040](https://learn.pimoroni.com/article/getting-started-with-tufty-2040#introduction);
 1. Open Thonny;
-1. Choose your preferred character in the _characters/_ folder and copy it to the _upload\_these/badges_ folder, for example to upload the "platy" file: `cp characters/platy.jpg upload_these/badges/platy.jpg`;
+1. Choose your preferred character in the _badges/_ and update the seventh line `upload_these/badges/badge.txt` to correspond to the character image
 1. Update the contents of `upload_these/badges/badge.txt` to match your details;
 1. Upload all the files in the _upload\_these_ folder into your badge, [detailed instructions here](https://www.thoughtasylum.com/2022/04/29/the-badger-2040-set-up/);
-1. After everything is uploaded into your device reset the Tufty2040 and navigate to _badge_ to see your badge.
+1. After everything is uploaded into your device, reset the Tufty2040 and navigate to _badge_ to see your badge.
 
 ### Need help?
 
