@@ -4,4 +4,4 @@ Devday@Oktane
 
 @developer
 
-/badges/badge.jpg
+/badges/badger.jpg
