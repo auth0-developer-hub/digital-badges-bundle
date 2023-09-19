@@ -1,4 +1,4 @@
-# Tufty 2040 from Devday@Oktane
+# Tufty 2040
 
 ## Start here
 
@@ -19,7 +19,7 @@
 
 ### Need help?
 
-For further assistance either find any Auth0 by Okta's developer advocate in the Community Corner during the Devday@Oktane or open an issue and tag @jtemporal.
+For further assistance either find any of Auth0 by Okta's developer advocates at developer events or open an issue and tag @jtemporal.
 
 ## More information
 

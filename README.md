@@ -1,6 +1,6 @@
-# Digital Badges Bundle for Devday@Oktane
+# Digital Badges Bundle
 
-Welcome developer! In this repo you will find folders for each possible type of badge you'll encounter on Devday@Oktane.
+Welcome developer! In this repo you will find folders for each possible type of badge you'll encounter with out developer advocates.
 
 ## Start here
 
@@ -20,4 +20,4 @@ Happy coding.
 
 ## Need help?
 
-For further assistance either find any of Auth0 by Okta's developer advocates in the Community Corner during the Devday@Oktane or open an issue and tag @jtemporal.
+For further assistance either find any of Auth0 by Okta's developer advocates at developer events or open an issue and tag @jtemporal.
