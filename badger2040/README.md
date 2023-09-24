@@ -25,9 +25,8 @@ For further assistance either find any of Auth0 by Okta's developer advocates at
 
 ### Files description
 
-- `characters`: collection of images that can be used to display on your badge
+- `upload_these`: contents to upload and replace the current files on the `Badger2040`.
     - Images in the Badger2040 need to be `.jpg` and need to have 104x128 pixels.
-- `upload_these`: contents to upload and replace the current files on the `Badger2040`
 
 To adjust the information written on the screen use the `.txt` files.
 
