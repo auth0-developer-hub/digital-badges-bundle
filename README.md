@@ -1,6 +1,6 @@
 # Digital Badges Bundle
 
-Welcome developer! In this repo you will find folders for each possible type of badge you'll encounter with out developer advocates.
+Welcome developer! In this repo you will find folders for each possible type of badge you'll encounter with our developer advocates.
 
 ## Start here
 
